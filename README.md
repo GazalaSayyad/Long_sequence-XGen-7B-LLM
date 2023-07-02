@@ -26,4 +26,6 @@ A GPU-enabled runtime in Colab. Make sure you have selected the GPU hardware acc
 
 Basic knowledge of Python programming and Jupyter notebooks.
 
-Blog Post - https://medium.com/@gazalashaikh999/ salesforce-unleashes-xgen-7b-a-powerful-7b-llm-trained-on-8k-sequences-with-1-5t-tokens-f25f5178e848
+Blog Post -
+ 
+https://medium.com/@gazalashaikh999/salesforce-unleashes-xgen-7b-a-powerful-7b-llm-trained-on-8k-sequences-with-1-5t-tokens-f25f5178e848
